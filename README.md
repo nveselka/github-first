@@ -1,3 +1,3 @@
 # Test README file
 
-This is a readme file for githyb-first. 
+This is a readme file for github-first. 
